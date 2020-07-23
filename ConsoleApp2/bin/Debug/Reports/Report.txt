@@ -1,0 +1,8 @@
+﻿**************************************
+Test Execution Begins
+Navigating to url: https://www.flipkart.com/
+Entering text in global search test box: mobiles
+Clicked on global search button
+Verified search result header with text: mobiles
+Test Execution Ends
+**************************************
