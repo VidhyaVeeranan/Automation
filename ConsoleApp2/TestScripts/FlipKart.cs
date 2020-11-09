@@ -24,7 +24,7 @@ namespace TestAutomation
         [Test]
         public void VerifyGlobalSearchInHomePage()
         {
-            string searchText = "mobiles";
+            string searchText = "laptops";
             string url = "https://www.flipkart.com/";
 
             home.GoToURL(url);
