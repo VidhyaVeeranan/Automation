@@ -69,6 +69,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="TestScripts\HelloWorld-plan.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="References\chromedriver.exe">
